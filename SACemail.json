@@ -20,14 +20,8 @@
         0,
         0
       ],
-      "id": "1fb2ac97-f5f7-4256-ba09-c431ce62af10",
-      "name": "Gmail Trigger",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "hdVzQxjCGqRyXLmF",
-          "name": "Gmail account 2"
-        }
-      }
+      "id": "96987afc-af2e-446d-a375-80311de3b661",
+      "name": "Gmail Trigger"
     },
     {
       "parameters": {
@@ -43,7 +37,7 @@
         416,
         0
       ],
-      "id": "2fba7bf3-2531-4a95-9fdf-27bd73228ab0",
+      "id": "7f9bac6a-f7a4-4bae-814a-e6a2327c8563",
       "name": "AI Agent"
     },
     {
@@ -62,14 +56,8 @@
         288,
         208
       ],
-      "id": "a5e228ff-0426-4136-aeeb-f36c2ca92ab1",
-      "name": "OpenAI Chat Model",
-      "credentials": {
-        "openAiApi": {
-          "id": "qmSmqHkFCOsLNXwz",
-          "name": "n8n free OpenAI API credits"
-        }
-      }
+      "id": "a12aa376-97c5-4087-a116-5b5ba71dd37c",
+      "name": "OpenAI Chat Model"
     },
     {
       "parameters": {
@@ -83,7 +71,7 @@
         432,
         208
       ],
-      "id": "ca2ae3ca-d7ca-4398-9916-84fc5bb1c699",
+      "id": "79f70ba6-ba2d-4228-b281-fad79d4ad703",
       "name": "Simple Memory"
     },
     {
@@ -101,15 +89,9 @@
         768,
         0
       ],
-      "id": "4d635c17-1221-4a5f-9509-8d8de91a9352",
+      "id": "65f2d4cd-a70a-48cb-993a-afd3e76a607a",
       "name": "Reply to a message",
-      "webhookId": "df9c2643-4020-4c1f-8631-9ce31569336d",
-      "credentials": {
-        "gmailOAuth2": {
-          "id": "hdVzQxjCGqRyXLmF",
-          "name": "Gmail account 2"
-        }
-      }
+      "webhookId": "df9c2643-4020-4c1f-8631-9ce31569336d"
     },
     {
       "parameters": {
@@ -141,7 +123,7 @@
         208,
         0
       ],
-      "id": "8252916a-1cce-4af7-9c98-30ce865da149",
+      "id": "b8378232-35c2-4804-9cb0-e478356e7a99",
       "name": "If"
     }
   ],
@@ -207,11 +189,10 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "a5c08008-4bca-4256-84eb-7458fcb09e83",
+  "versionId": "ab86c302-2d57-47fb-b181-a67c833cc83e",
   "meta": {
-    "templateCredsSetupCompleted": true,
-    "instanceId": "1eda7c6ac063555d491416e4a8d07610c3df17f007e13cd261ae435a0d6f28ee"
+    "instanceId": "03385ba5babd29cede04c5937ac6612d3eb2d7a53874c596ded4e9ada708be14"
   },
-  "id": "5ATnLIpXLts2n11s",
+  "id": "CXhKm8Y9B7kUvJuR",
   "tags": []
 }
